@@ -1,6 +1,6 @@
 ---
 title: "Citation graph"
-output: citation_graph
+output: html_document
 ---
 
 # Citation graph
